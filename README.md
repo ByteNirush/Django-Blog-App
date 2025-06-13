@@ -4,6 +4,6 @@ Perfect for beginners learning Django fundamentals like models, class-based view
 - Create blog posts
 - Read blog posts (list & detail view)
 - Update/edit posts
-- Delete posts with confirmation
+- Delete posts
 - Responsive UI
 
